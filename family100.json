@@ -1,25 +1,45 @@
 {
-  "question": "martin sebenarnya apa?",
-  "answers": [
+  "questions": [
     {
-      "text": "kontol",
-      "point": 6
+      "id": 1,
+      "question": "Siapa yang paling ganteng?",
+      "answers": [
+        { "text": "alfread", "point": 50 },
+        { "text": "budi", "point": 30 },
+        { "text": "tono", "point": 20 }
+      ],
+      "created_at": "2024-01-06T12:00:00Z",
+      "author": "Admin"
     },
     {
-      "text": "biji ",
-      "point": 5
+      "id": 2,
+      "question": "Sebutkan nama buah yang berwarna merah",
+      "answers": [
+        { "text": "apel", "point": 25 },
+        { "text": "strawberry", "point": 20 },
+        { "text": "ceri", "point": 20 },
+        { "text": "semangka", "point": 15 },
+        { "text": "anggur merah", "point": 10 },
+        { "text": "delima", "point": 10 }
+      ],
+      "created_at": "2024-01-06T13:00:00Z",
+      "author": "Admin"
     },
     {
-      "text": "babi",
-      "point": 1
-    },
-    {
-      "text": "manusia",
-      "point": 1
+      "id": 3,
+      "question": "Sebutkan hewan berkaki 4",
+      "answers": [
+        { "text": "kucing", "point": 30 },
+        { "text": "anjing", "point": 25 },
+        { "text": "sapi", "point": 15 },
+        { "text": "kambing", "point": 10 },
+        { "text": "kelinci", "point": 10 },
+        { "text": "harimau", "point": 10 }
+      ],
+      "created_at": "2024-01-06T14:00:00Z",
+      "author": "Admin"
     }
   ],
-  "last_updated": "2026-01-06T14:45:07.346Z",
-  "created_by": "Family 100 Admin",
-  "repo": "alfreadrorw1/alfread-bot",
-  "branch": "main"
+  "last_updated": "2024-01-06T15:00:00Z",
+  "total_questions": 3
 }
