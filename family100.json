@@ -1,0 +1,33 @@
+{
+  "question": "Sebutkan nama buah yang berwarna merah",
+  "answers": [
+    {
+      "text": "apel",
+      "point": 25
+    },
+    {
+      "text": "strawberry",
+      "point": 20
+    },
+    {
+      "text": "ceri",
+      "point": 20
+    },
+    {
+      "text": "semangka",
+      "point": 15
+    },
+    {
+      "text": "anggur",
+      "point": 10
+    },
+    {
+      "text": "delima",
+      "point": 10
+    }
+  ],
+  "last_updated": "2024-01-06T12:00:00Z",
+  "created_by": "Family 100 Admin",
+  "repo": "alfreadrorw1/alfread-bot",
+  "branch": "main"
+}
