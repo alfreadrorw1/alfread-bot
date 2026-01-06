@@ -1,32 +1,24 @@
 {
-  "question": "Sebutkan nama buah yang berwarna merah",
+  "question": "siapa paling ganteng di sini??",
   "answers": [
     {
-      "text": "apel",
-      "point": 25
+      "text": "alfread",
+      "point": 100
     },
     {
-      "text": "strawberry",
-      "point": 20
+      "text": "pasti alfread",
+      "point": 50
     },
     {
-      "text": "ceri",
-      "point": 20
-    },
-    {
-      "text": "semangka",
-      "point": 15
-    },
-    {
-      "text": "anggur",
+      "text": "ah alfread",
       "point": 10
     },
     {
-      "text": "delima",
+      "text": "anjir alfread",
       "point": 10
     }
   ],
-  "last_updated": "2024-01-06T12:00:00Z",
+  "last_updated": "2026-01-06T14:36:36.718Z",
   "created_by": "Family 100 Admin",
   "repo": "alfreadrorw1/alfread-bot",
   "branch": "main"
