@@ -1,1 +1,30 @@
-
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "sebutkan siapa yang paling ganteng di dunia??",
+      "answers": [
+        {
+          "text": "alfread",
+          "point": 50,
+          "id": 1
+        },
+        {
+          "text": "masih alfread",
+          "point": 12,
+          "id": 2
+        },
+        {
+          "text": "pasti alfread",
+          "point": 10,
+          "id": 3
+        }
+      ],
+      "total_points": 72,
+      "created_at": "2026-01-06T15:44:05.196Z",
+      "author": "Admin"
+    }
+  ],
+  "last_updated": "2026-01-06T15:44:05.197Z",
+  "total_questions": 1
+}
