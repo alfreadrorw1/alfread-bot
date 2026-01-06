@@ -1,1 +1,42 @@
-
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sebutkan nama buah yang berwarna merah",
+      "answers": [
+        {
+          "text": "apple",
+          "point": 15,
+          "id": 1
+        },
+        {
+          "text": "strawberry",
+          "point": 40,
+          "id": 2
+        },
+        {
+          "text": "cerry",
+          "point": 10,
+          "id": 3
+        },
+        {
+          "text": "semangka",
+          "point": 10,
+          "id": 4
+        },
+        {
+          "text": "delima",
+          "point": 25,
+          "id": 5
+        }
+      ],
+      "total_points": 100,
+      "created_at": "2026-01-06T17:05:17.952Z",
+      "author": "Admin",
+      "total_answers": 5
+    }
+  ],
+  "last_updated": "2026-01-06T17:05:17.972Z",
+  "total_questions": 1,
+  "format_version": "2.0"
+}
