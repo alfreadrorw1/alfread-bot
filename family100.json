@@ -34,9 +34,39 @@
       "created_at": "2026-01-06T17:05:17.952Z",
       "author": "Admin",
       "total_answers": 5
+    },
+    {
+      "id": 2,
+      "question": "hewan yang berawalan dari huruf a",
+      "answers": [
+        {
+          "text": "anjing",
+          "point": 25,
+          "id": 1
+        },
+        {
+          "text": "ayam",
+          "point": 15,
+          "id": 2
+        },
+        {
+          "text": "ambing",
+          "point": 20,
+          "id": 3
+        },
+        {
+          "text": "anying",
+          "point": 40,
+          "id": 4
+        }
+      ],
+      "total_points": 100,
+      "created_at": "2026-01-07T06:55:06.975Z",
+      "author": "Oxyluss Admin",
+      "total_answers": 4
     }
   ],
-  "last_updated": "2026-01-07T06:53:58.719Z",
-  "total_questions": 1,
+  "last_updated": "2026-01-07T06:55:06.975Z",
+  "total_questions": 2,
   "format_version": "2.0"
 }
